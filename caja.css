@@ -1,0 +1,17 @@
+.caja{
+    width: 400px;
+    height: 300px;
+    margin: 50px;
+    padding: 10px;
+    border: 5px solid royalblue;
+    text-align: center;
+}
+
+.caja2{
+    width: 100px;
+    height: 500px;
+    margin: 50px;
+    padding: 10px;
+    border: 5px solid rgb(225, 65, 92);
+    text-align: center;
+}

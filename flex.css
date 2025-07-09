@@ -1,0 +1,15 @@
+.contenedor{
+    display: flex;
+justify-content: space-around;
+}
+
+.item{ 
+    width: 30%;
+    height: 200px;
+    padding: 5px;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+h1{color: blueviolet;}
+p{color: blue;}

@@ -1,0 +1,19 @@
+body{background-color: rgb(177, 221, 74);
+}
+h1{background-color: blue;
+    color: blueviolet;
+}
+h2{color: rgb(65, 42, 7);
+}
+h3{color: rgb(32, 49, 14);
+}
+.secundaria{color: brown;
+}
+.parrafo2{color: darkorange; 
+    font-size: 50px;
+    font-family: cursive;
+}
+p{color: rgb(32, 0, 211);
+}
+#parrafo3{color: darksalmon;
+}
